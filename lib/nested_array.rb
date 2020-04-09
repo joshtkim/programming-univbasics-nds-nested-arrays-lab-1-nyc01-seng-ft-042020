@@ -60,6 +60,7 @@ def sorted_matrix
     ]
   ]
   grocery_store.sort
+  grocery_store
 end
 
 def matrix_lookup(matrix, row, column)
