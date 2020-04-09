@@ -28,14 +28,14 @@ def assembled_matrix
       "Oranges",
       "Watermelon",
       "Eggplant"
-    ]
+    ],
     [
       "Strawberries",
       "Potatoes",
       "Grapes",
       "Avocadoes",
       "Asparagus"
-    ],
+    ]
 
 
   ]
